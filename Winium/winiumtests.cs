@@ -15,7 +15,7 @@ namespace Winium
         public IWiniumOptions opts;
         public WiniumDriver driver;
 
-        private string appLocation = "C:\\mamegoeshere.exe";
+        private string appLocation = "c:\\windows\\System32\\calc.exe";
 
         private string screenshotDir = "C:\\temp\\";
         private int maxGames = 50; // how many times until we give up
